@@ -1,1 +1,4 @@
-https://web.archive.org/web/20091027075753im_/http://logojenny620hk.netfirms.com/applylogo.gif
+
+<div align="center">
+  <img src="https://media1.tenor.com/m/XT078Mv2WuEAAAAd/silco-arcane-silco.gif" width="600" height="300"/>
+</div>
