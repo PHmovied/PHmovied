@@ -7,7 +7,8 @@
 
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/67b1c6d5-b269-4a7e-93a8-dce775fc0949"width="1300" height="250"/>
+    <img width="1024" height="200" alt="image" src="https://github.com/user-attachments/assets/f451d9be-85cc-4759-afb6-fd3fb0785b87" />
+
 </div>
 <h3 align="center">
   <b>My name is - DiscoOfCrimsempyrean</b>
