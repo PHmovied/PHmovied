@@ -16,18 +16,18 @@
   <br> <br>
   <b>Artist ✦ RU\ENG</b> 
       <br>
-  <b>W2I</b>
+  <b>W2I ✦ C+H ✦ IWC-UF</b>
       <br>
-      <sub></sub>я могу быть не слишком сговорчивым, но это не значит, что я не заинтересован в общении tbh</sub>
-       
+      <sub></sub></sub>
+       <br> <br>
 </h3>
       
 <h3 align="center">
 <b>Hyperfixations etc.</b>
      </h3>   
-✦ (♡)Disco Elysium, (♡)Arcane, FAITH The Unholy Trinity, Felvidek, Militsioner, Who’s Lila?, Ultrakill, Dispatch, Critters For Sale, Don't Starve Together, Papers Please, Postal Redux\2\3\4\2: Штопор ЖжОт, Sky : Children Of The Light, Starbound, Stardew Valley, Deltarune, Undertale, Fear & Hunger\Fear & Hunger : Termina, Half-Life, Hylics, LISA, The Binding of Isaac, Detroit: Become Human, Portal,  S.T.A.L.K.E.R., Rusty Lake, Pathologic
+✦ (♡)Disco Elysium, (♡)Arcane, FAITH The Unholy Trinity, Felvidek, Militsioner, Who’s Lila?, Ultrakill, Dispatch, Critters For Sale, Don't Starve Together, Papers Please, Postal Redux\2\3\4\2: Штопор, Sky : Children Of The Light, Starbound, Stardew Valley, Deltarune, Undertale, Fear & Hunger\Fear & Hunger : Termina, Half-Life, Hylics, LISA, The Binding of Isaac, Detroit: Become Human, Portal,  S.T.A.L.K.E.R., Rusty Lake, Pathologic 1\2, Romantically Apocalyptic, The Outlast Trials, Yuppie Psycho, Metalocalypse ...
 <br><br>
-<i>(помимо перечисленных я знаю ещё множество stuffs ...)</i> 
+<i>(помимо перечисленных я знаю ещё множество фандомов и stuffs)</i> 
 
 <h1 align="center">Bye
 </h1>
