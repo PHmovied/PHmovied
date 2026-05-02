@@ -2,12 +2,10 @@
     <h1>Hello</h1>
 </div>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PHmovied&color=orange&abbreviated=true&style=for-the-badge" alt="Views" />
+  <img src="https://i.pinimg.com/1200x/38/fd/1c/38fd1c36813277136b38267a209e1f95.jpg" alt="Views" />
 </p>
 
 
-<div align="center">
-    <img width="1024" height="200" alt="image" src="https://github.com/user-attachments/assets/f451d9be-85cc-4759-afb6-fd3fb0785b87" />
 
 </div>
 <h3 align="center">
