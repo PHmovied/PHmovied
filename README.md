@@ -2,7 +2,7 @@
     <h1>Hello</h1>
 </div>
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/53/6f/58/536f58dcf55aa909596e378f1246a769.jpg" alt="Views" />
+ <img width="1500" height="400" alt="image" src="https://github.com/user-attachments/assets/0842ebc8-ef95-49ab-91ce-f084b076903e" />
 </p>
 
 
