@@ -2,7 +2,7 @@
     <h1>Hello</h1>
 </div>
 <p align="center">
- <img width="1500" height="400" alt="image" src="https://github.com/user-attachments/assets/0842ebc8-ef95-49ab-91ce-f084b076903e" />
+ <img width="1500" height="400" alt="image" src="https://i.pinimg.com/736x/58/8d/80/588d8077ff8d1f934eae299e0e06eafd.jpg" />
 </p>
 
 
@@ -24,7 +24,7 @@
 <h3 align="center">
 <b>Hyperfixations etc.</b>
      </h3>   
-✦ (♡)Disco Elysium, (♡)Arcane, FAITH The Unholy Trinity, Felvidek, Militsioner, Who’s Lila?, Ultrakill, Dispatch, Critters For Sale, Don't Starve Together, Papers Please, Postal Redux\2\3\4\2: Штопор, Sky : Children Of The Light, Starbound, Stardew Valley, Deltarune, Undertale, Fear & Hunger\Fear & Hunger : Termina, Half-Life, Hylics, LISA, The Binding of Isaac, Detroit: Become Human, Portal,  S.T.A.L.K.E.R., Rusty Lake, Pathologic 1\2, Romantically Apocalyptic, The Outlast Trials, Yuppie Psycho, Metalocalypse ...
+✦ (♡)Disco Elysium, Arcane, Max Gambino, FAITH The Unholy Trinity, Felvidek, Militsioner, Who’s Lila?, Ultrakill, Dispatch, Critters For Sale, Don't Starve Together, Papers Please, Postal Redux\2\3\4\2: Штопор, Sky : Children Of The Light, Starbound, Stardew Valley, Deltarune, Undertale, Fear & Hunger\Fear & Hunger : Termina, Half-Life, Hylics, LISA, The Binding of Isaac, Detroit: Become Human, Portal,  S.T.A.L.K.E.R., Rusty Lake, Pathologic 1\2, Romantically Apocalyptic, The Outlast Trials, Yuppie Psycho, Metalocalypse ...
 <br><br>
 <i>(помимо перечисленных я знаю ещё множество фандомов и stuffs)</i> 
 
